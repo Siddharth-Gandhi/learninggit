@@ -1,5 +1,11 @@
 hello world
 
+<<<<<<< HEAD
 this is master
 hehe
 nope this is even betters
+=======
+this is testing
+
+nope this is even better
+>>>>>>> testing
