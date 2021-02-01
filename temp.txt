@@ -1,1 +1,2 @@
 This is hello from new_branch in temp.txt
+This is another line in the master branch
