@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-This is all KINDA OKAY
-=======
-THIS IS ALL RIGHT
->>>>>>> testing
-
-this is master
-hehe
-nope this is even betters
+Sup 2
