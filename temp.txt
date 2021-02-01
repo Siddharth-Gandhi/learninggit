@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 This is hello from new_branch in temp.txt
 This is another line in the master branch
-=======
-This is hello from new_branch in temp.txt whee hoo
->>>>>>> new_branch
